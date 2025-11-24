@@ -19,10 +19,6 @@ This site validates that AdPriva's privacy-first ad verification system correctl
 - Generates zero-knowledge proofs
 - Tracks verified attention without exposing user data
 
-## For Developers
-
-Use this environment to test integration implementations before production deployment.
-
 ## About AdPriva
 
 AdPriva is a privacy-first ad verification platform using cryptographic proofs to verify ad engagements without exposing user data.
