@@ -2,8 +2,6 @@
 
 Live testing environment for AdPriva ad verification tags and banner interactions.
 
-🔗 **[Launch Test Site](https://adpriva.github.io/adpriva-test/)**
-
 ## What This Tests
 
 - Ad tag implementation and rendering
